@@ -3,19 +3,17 @@
 # Description: 
  
 # Initial Hypotheses: 
-and/or questions you have of the data, ideas
+Customers at Telco are leaving due to unsatisfactory services that are provided
  
 # Initial Questions:
  
-Are certain groups (age, gender, etc.) of customers unsatisfied with our service?
+- Are certain groups (age, gender, etc.) of customers unsatisfied with our service?
  
-Do we offer products/services(internet types) that do not meet expectations?
+- Do we offer products/services(internet types) that do not meet expectations?
  
-Are we charging too much?
+- Do we lack customer support?
  
-Do we lack customer support?
- 
-Do we need to put more focus on the types of contracts we offer for customers?
+- Do we need to put more focus on the types of contracts we offer for customers?
  
 # Data Dictionary:
  
