@@ -1,7 +1,9 @@
 # Project Goal: Determine what drives customers of Telco to stop doing business with them.
  
 # Description: 
- 
+Using Statistical tests and modeling, you can narrow down the reasons why customers of Telco cease business. 
+I focused on 8 features out of the 24 that I determined were more detrimental to the churn of customers.
+
 # Initial Hypotheses: 
 Customers at Telco are leaving due to unsatisfactory services that are provided
  
