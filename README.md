@@ -24,8 +24,10 @@ Decision Tree: To avoid overfitting, a max depth of 3 was used
 KNN: Using the 10 nearest neighbors of points within my data
 LR: Logistic regression model using default parameters
 
-# Planning (lay out your process through the data science pipeline):
-
+# Planning:
+Data acquired from the Codeup MYSQL Database
+A preparation function was made to make dummy variables and clean up the Telco data
+Exploring and Modeling was done in a separate notebook and the 3 best models were brought to the final report
  
 # Findings, Recommendations, and Takeaways:
 Focusing on the 8 features help enhance the models ability to determine churn compared to using all features
